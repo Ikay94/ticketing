@@ -1,3 +1,4 @@
 bugfix should fix the coding by tomorrow 
-i can't explain the issue 
+I can't explain the issue 
 but get it done by tomorrow 
+the imperative to update the git file
